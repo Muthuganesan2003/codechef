@@ -1,0 +1,73 @@
+h2{
+    font-size:50px;
+    font-family: 'Times New Roman', Times, serif;
+    color: crimson;
+    font-style:inherit;
+    width: 900px;
+
+}
+h3{
+    font-size:30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: crimson;
+    font-style:inherit;
+    width: 900px;
+   
+
+}
+hr{
+    border-style: none;
+    border-top-style:dotted;
+    border-width: 20px;
+    border-color: rgb(250, 114, 3);
+    width:70%;
+   }
+h1{
+    font-size:70px;
+    color:maroon;
+}   
+body{
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/back_our/20190621/ourmid/pngtree-simple-geometric-yellow-gradient-e-commerce-background-image_199447.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}   
+.button{
+    box-shadow:5px 5px 0px #00CED1;
+    top:-5px;
+    left:-5px;
+    background-color:skyblue;
+    border: none;
+    color: rgb(13, 85, 240);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    margin: 10px 10px;
+    border-radius: 50px;
+   
+    
+}
+.button1{
+    box-shadow:5px 5px 0px #d10011;
+    top:-5px;
+    left:-5px;
+    background-color:rgb(235, 212, 135);
+    border: none;
+    color: rgb(240, 13, 24);
+    text-decoration: none;
+    font-size: 30px;
+    padding: 15px 32px;
+    border-radius:30px;
+    display: inline-block;
+}
+h5{
+    font-size: medium;
+    color:maroon;
+}
+img{
+    border-radius: 50px;
+    box-shadow:5px 5px 0px #c95d04;
+    top:-5px;
+    left:-5px;
+}

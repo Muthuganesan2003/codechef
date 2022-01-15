@@ -1,0 +1,44 @@
+#head{
+    padding-left:75px;
+}
+textarea{
+    resize:none;
+    background-image: url("https://www.desktopbackground.org/p/2013/11/25/675811_plain-light-blue-wallpapers_1022x816_h.jpg");
+}
+#contact{
+    padding-left:110px;
+}
+#table{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6wxt-8EDCojsyhZ_t-k9iT8jpA5GM6k3dbQ&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    border: 3px saddlebrown;
+    border-style:groove;
+    border-collapse: collapse;
+}
+.button{
+    box-shadow:5px 5px 0px #00CED1;
+    top:-5px;
+    left:-5px;
+    background-color:skyblue;
+    border: none;
+    color: rgb(13, 85, 240);
+    padding-left:150px;
+    padding-right:150px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 10px 10px;
+    border-radius: 50px;
+}
+h1{
+   color:springgreen;
+   font-size:50px;
+    
+}
+body{
+    background-image: url("https://www.pngmagic.com/product_images/plain-blue-background-hd.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
